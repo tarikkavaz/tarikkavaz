@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Tokyo Plastic](https://i.imgur.com/ACTJlTG.jpeg "Tokyo Plastic")
+
 <!--
 **tarikkavaz/tarikkavaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
